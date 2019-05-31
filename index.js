@@ -1,7 +1,7 @@
 window.onload = function() {
 
     let startDate = new Date('May 27, 2019 12:00:00 +0000');
-    let countdownDate = new Date('June 11, 2019 17:00:00 +0000');
+    let countdownDate = new Date('June 12, 2019 15:00:00 +0000');
     let totalTimeDif = countdownDate.getTime() - startDate.getTime();
 
     let days;
